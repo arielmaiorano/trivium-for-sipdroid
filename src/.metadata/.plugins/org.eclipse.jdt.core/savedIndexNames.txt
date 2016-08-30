@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\Ariel\Desktop\sipdroid-eclipse-workspace\sipdroid-eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1643500794.index

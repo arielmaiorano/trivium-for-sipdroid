@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sync&apos; in &apos;org.sipdroid.media.RtpStreamReceiver.run()&apos; to &apos;tmpSeq&apos;&#x0D;&#x0A;- Original project: &apos;SipUA&apos;&#x0D;&#x0A;- Original element: &apos;org.sipdroid.media.RtpStreamReceiver.run().sync&apos;&#x0D;&#x0A;- Renamed element: &apos;sync&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sync&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.sipdroid.media{RtpStreamReceiver.java[RtpStreamReceiver~run@sync!24920!24961!24924!24927!I!0!false" name="tmpSeq" references="true" stamp="1400377500196" version="1.0"/>
+</session>

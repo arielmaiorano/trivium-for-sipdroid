@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ar.edu.iese.criptolab.cifradores.TriviumToy32"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="org.sipdroid.sipua.ui.CallScreen"/>
+<fullyQualifiedTypeName name="java.security.MessageDigest"/>
+</qualifiedTypeNameHistroy>

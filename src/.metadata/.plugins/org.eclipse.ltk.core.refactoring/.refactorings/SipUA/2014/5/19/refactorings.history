@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;password&apos; in &apos;org.sipdroid.sipua.ui.CallScreen&apos; to &apos;encryptionPassword&apos;&#x0D;&#x0A;- Original project: &apos;SipUA&apos;&#x0D;&#x0A;- Original element: &apos;org.sipdroid.sipua.ui.CallScreen.password&apos;&#x0D;&#x0A;- Renamed element: &apos;org.sipdroid.sipua.ui.CallScreen.encryptionPassword&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;password&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;org.sipdroid.sipua.ui{CallScreen.java[CallScreen^password" name="encryptionPassword" references="true" setter="false" stamp="1399851303703" textual="false" version="1.0"/>
+</session>

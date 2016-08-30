@@ -1,0 +1,15 @@
+[
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "322db3959c3383f4be9daa75ffa427d1485879ad",
+    "jarFileModificationDate": "2015-03-31T13:45:03.803-03:00",
+    "location": "C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-17\\android.jar",
+    "javaRuntime": false
+  }
+]
